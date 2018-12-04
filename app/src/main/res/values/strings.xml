@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">testmap</string>
+    <string name="ButtonText">Pick Point</string>
+    <string name="Location">Get Current Location</string>
+</resources>
